@@ -1,0 +1,96 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #9F72F2!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #9F72F2!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+.btn-primary{
+    background-color: #9F72F2;
+    border: none;
+}
+
+
+#proyecto-1{
+    background-image: url('pantalla-lap.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+
+}
+
+.testimonios{
+    color: #000000;
+}
+
+.carousel-indicators [data-bs-target]{
+background-color: #9F72F2;
+height: 5px;
+}
+
+.carousel-control-prev [data-bs-slide]{
+background-color:#9F72F2;
+height: 5px;
+}
+
+.carousel-control-next [data-bs-slide]{
+    background-color: #9F72F2;
+    height: 5px;
+}
+
+.bi-instagram{
+    color: white;
+    font-size: 2rem;
+}
+
+.bi-facebook{
+    color: white;
+    font-size: 2rem;
+}
+
+.bi-linkedin{
+    color: white;
+    font-size: 2rem;
+}
+
+.bi-moon-stars-fill{
+    color: white;
+    font-size: 2rem;
+}
